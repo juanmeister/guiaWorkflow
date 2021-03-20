@@ -7,7 +7,7 @@ Para este ejemplo se utilizará la herramienta de react `créate-react-app`.
 Es necesario tener un droplet creado dentro de Digital Ocean, si no sabe cómo crear uno puede seguir estos pasos en [esta guía Fazt](https://www.youtube.com/watch?v=Z4yeRyf8MhM&ab_channel=FaztCode).
 
 #### Create React App
-"Create React App es un ambiente cómodo para `aprender React`, y es la mejor manera de comenzar a construir `aprender React` usando React".
+"Create React App es un ambiente cómodo para `aprender React`, y es la mejor manera de comenzar a construir `una nueva aplicación de página única` usando React".
 para mas informacion [hacer click aqui](https://es.reactjs.org/docs/create-a-new-react-app.html)
 
 ## Indice:
@@ -21,7 +21,7 @@ para mas informacion [hacer click aqui](https://es.reactjs.org/docs/create-a-new
 
 ### Crear Proyecto
 
-Abrir una terminal y ejecutar los siguientes comandos.(cabe recalcar que es necesario tener instalado node y npm en su equi [click aqui para mas](https://es.reactjs.org/docs/create-a-new-react-app.html))
+Abrir una terminal y ejecutar los siguientes comandos.(cabe recalcar que es necesario tener instalado node y npm en su equipo [click aqui para mas](https://es.reactjs.org/docs/create-a-new-react-app.html))
 
 ```bash
 mkdir myApp && cd myApp
@@ -40,7 +40,7 @@ Detener el proceso en ejecucion de react. Crear un nuevo repositorio en github
   <img src="img/new- repo.PNG" alt="Nuevo Repositorio">
 </p>
 
-En el terminal donde esta ubicado el proyecto ejecutar los siguientes comandos
+En el terminal, donde esta ubicado el proyecto ejecutar los siguientes comandos
 ```bash
 git branch -M main
 git remote add origin https://github.com/username/suRepo.git
