@@ -1,7 +1,7 @@
 # Crear CI(Integracion continua ) con Github Actions utilizando Node.js y Digital Ocean
 
 ## Introducción 
-En esta guía busca mostrar un paso a paso para crear un Workflow (Flujo de trabajo) dentro de GitHub Actions.
+Esta guía busca mostrar un paso a paso para crear un Workflow (Flujo de trabajo) dentro de GitHub Actions.
 Para este ejemplo se utilizará la herramienta de react `créate-react-app`.
 
 Es necesario tener un droplet creado dentro de Digital Ocean, si no sabe cómo crear uno puede seguir estos pasos en [esta guía Fazt](https://www.youtube.com/watch?v=Z4yeRyf8MhM&ab_channel=FaztCode).
